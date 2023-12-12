@@ -4,36 +4,11 @@ html, body {
   justify-content: center;
 }
 
-@media (max-width: 960px) {
-  div {
-    width: 700px;
-  }
-
-  #main_body {
-    background-color: yellow;
-  }
-
-  h1 {
-    color: blueviolet;
-  }
-}
-
-@media (max-width: 720px) {
-  div {
-    width: 500px;
-  }
-}
-
-@media (max-width: 540px) {
-  div {
-    width: 300px;
-  }
-}
-
 body {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
 }
+
 div {
   margin: 10px;
   padding-bottom: 20px;
